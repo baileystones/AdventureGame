@@ -1,0 +1,15 @@
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\obj\Debug\net6.0\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\obj\Debug\net6.0\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\obj\Debug\net6.0\AdventureGame.AssemblyInfo.cs
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\obj\Debug\net6.0\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\obj\Debug\net6.0\AdventureGame.sourcelink.json
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\bin\Debug\net6.0\AdventureGame.exe
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\bin\Debug\net6.0\AdventureGame.deps.json
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\bin\Debug\net6.0\AdventureGame.runtimeconfig.json
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\bin\Debug\net6.0\AdventureGame.dll
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\bin\Debug\net6.0\AdventureGame.pdb
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\obj\Debug\net6.0\AdventureGame.dll
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\obj\Debug\net6.0\refint\AdventureGame.dll
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\obj\Debug\net6.0\AdventureGame.pdb
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\obj\Debug\net6.0\AdventureGame.genruntimeconfig.cache
+C:\Users\baile\Desktop\AdventureGame\AdventureGame\obj\Debug\net6.0\ref\AdventureGame.dll
