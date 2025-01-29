@@ -50,7 +50,7 @@ public class Menu
             else if (choice == "4")
             {
                 running = false;
-                Console.WriteLine("See you soon.");
+                Console.WriteLine("See you soon!");
             }
             //Catching errors for invalid user number input
             else

@@ -6,7 +6,6 @@ This software starts with a menu screen. From there the user is able to pick a p
 
 The appropriate class is called, and the user then goes throughout the game, entering numbers to make decisions. This program is intended to show the use of variables, expressions, conditionals, loops, methods, classes, and randomization.
 
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
@@ -17,15 +16,14 @@ The appropriate class is called, and the user then goes throughout the game, ent
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
- 
 * Microsoft(https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/main-command-line)
-* [Web Site Name](http://url.link.goes.here)
+* Microsoft (https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+* ByteHide(https://www.bytehide.com/blog/random-elements-csharp)
+* ChatGPT to help with overall cleanliness
+* Stack Overflow for various questions
 
-# Future Work8/'
+# Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-* Item 1
-* Item 2
-* Item 3
+* Add more depth to the current Adventure Simulations
+* Add a file to modify with user notes after successfully completing the adventure
+* Add a third adventure simulation
