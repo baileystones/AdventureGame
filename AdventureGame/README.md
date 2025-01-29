@@ -6,7 +6,7 @@ This software starts with a menu screen. From there the user is able to pick a p
 
 The appropriate class is called, and the user then goes throughout the game, entering numbers to make decisions. This program is intended to show the use of variables, expressions, conditionals, loops, methods, classes, and randomization.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/AuFfzx1bSJQ)
 
 # Development Environment
 
